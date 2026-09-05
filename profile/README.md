@@ -1,50 +1,26 @@
-# Appfairly LLC
+# Appfairly
 
-We build **Vilix** — persistent memory for AI tools.
+Building tools that make everyday tech simpler, from Android utilities to AI infrastructure.
 
-[![Website](https://img.shields.io/badge/Website-getvilix.com-1f6feb?style=flat-square)](https://getvilix.com/?utm_source=github&utm_medium=org_profile&utm_campaign=appfairly_org)
-[![Get started](https://img.shields.io/badge/Get%20started-~5%20min-2ea043?style=flat-square)](https://getvilix.com/get-started?utm_source=github&utm_medium=org_profile&utm_campaign=appfairly_org)
-[![Docs](https://img.shields.io/badge/Docs-getvilix.com%2Fdocs-8957e5?style=flat-square)](https://getvilix.com/docs)
-[![MCP](https://img.shields.io/badge/MCP-native-000000?style=flat-square)](https://github.com/Appfairly/vilix-mcp-cross-ai-memory)
+### 🧠 Vilix AI — persistent memory for every AI tool, on your phone and your laptop
 
-## 🧠 Vilix — one memory for all your AIs
+Our main project is **[Vilix AI](https://vilix.ai)**, a memory layer built natively on the Model Context Protocol that gives your AI assistants shared memory across every tool you use, and every device you use them on.
 
-AI tools forget context across chats and platforms. You start a plan in
-ChatGPT, move to Claude for a second opinion, then implement in Cursor — and
-each tool starts from zero.
+**Plan on your phone. Continue on your laptop. Same memory, every time.**
 
-**Vilix is an MCP-native persistent memory layer for AI assistants and coding
-agents.** Save context once and reuse it across ChatGPT, Claude, Cursor,
-Windsurf, Perplexity, and other MCP-compatible tools.
+- **Built on MCP, an open standard, not a proprietary plugin.** Any MCP-compatible client works automatically: Claude, ChatGPT, Grok, Perplexity on phone and laptop, plus coding agents like Cursor, Codex, and Windsurf.
+- **Real conversations, not just extracted facts.** Vilix AI keeps the actual context and history, not a stripped-down summary.
+- **Long-term by design.** Built to hold years of accumulated context, not a rolling few-day window.
+- **You control it.** Audit, edit, export, or erase anything stored, anytime.
 
-> **Start in ChatGPT. Continue in Claude. Finish in Cursor. Without repeating yourself.**
-
-### Get started
-
-- 🌐 Website: **[getvilix.com](https://getvilix.com/?utm_source=github&utm_medium=org_profile&utm_campaign=appfairly_org)**
-- 🚀 Set up in ~5 minutes: **[getvilix.com/get-started](https://getvilix.com/get-started?utm_source=github&utm_medium=org_profile&utm_campaign=appfairly_org)**
-- 📚 Docs & MCP setup: **[vilix-mcp-cross-ai-memory](https://github.com/Appfairly/vilix-mcp-cross-ai-memory)**
-- 📖 Product docs: **[getvilix.com/docs](https://getvilix.com/docs)**
-
-### Repositories
-
-| Repo | What it is |
-|------|------------|
-| [vilix-mcp-cross-ai-memory](https://github.com/Appfairly/vilix-mcp-cross-ai-memory) | Public docs, setup guides, and MCP distribution for Vilix |
-
-### About Appfairly
-
-Appfairly LLC is an independent software studio. Beyond Vilix, we build
-consumer Android apps with 2M+ downloads (SoundCast, HDMI Cast) — the same
-principle drives everything: products people can figure out in under 30
-seconds.
+👉 [vilix.ai](https://vilix.ai) &nbsp;·&nbsp; [Get started](https://vilix.ai/get-started) &nbsp;·&nbsp; [Docs](https://vilix.ai/docs) &nbsp;·&nbsp; [MCP repo](https://github.com/Appfairly/vilix-mcp-cross-ai-memory)
 
 ---
 
-**Contact** — Vilix product: hello@getvilix.com · Appfairly LLC (studio):
-contact@appfairly.com
+### 📱 Android utilities
 
-<sub>Vilix is an MCP memory server providing persistent memory for AI —
-ChatGPT memory, Claude memory, Cursor memory, and AI agent memory in one
-place. A shared, cross-platform memory layer for AI assistants. By Appfairly
-LLC · [getvilix.com](https://getvilix.com/?utm_source=github&utm_medium=org_profile&utm_campaign=appfairly_org)</sub>
+We also build focused, no-nonsense Android utility apps.
+
+---
+
+Questions, support, or partnership inquiries — visit vilix.ai.
